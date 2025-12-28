@@ -24,3 +24,4 @@ See [docs/](./docs/) for full API reference.
 ## License
 
 MIT
+<!-- touched 2025-12-28 -->
