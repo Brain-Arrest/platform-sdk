@@ -25,3 +25,4 @@ See [docs/](./docs/) for full API reference.
 
 MIT
 <!-- touched 2025-12-28 -->
+<!-- touched 2026-02-03 -->
